@@ -1,0 +1,93 @@
+
+/* colors: rgb(4, 37, 58) darkblue -- rgb(225,221,191) tan, rgb(76,131,122) green */
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: white;
+  margin: 1rem;
+  padding: 1rem;
+}
+ .main-body-class {
+  font-size: 1rem;
+  box-sizing: border-box;
+  float: left;
+  width: 60%;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  background-color: rgb(225,221,191);
+  margin: 2rem;
+  align-content: space-between;
+  }
+
+.footer {
+  width: 100%;
+  padding:3rem;
+  background-color: rgb(4, 37, 58);
+  color: rgb(225,221,191);
+  margin: 4rem;
+  font-size: 1rem;
+  font-weight: lighter;
+  align-content: stretch;
+}
+
+p{padding: 1rem;
+  font-size: 1.5rem;
+}
+
+aside {
+  float: right;
+  width: 30%;
+  padding-right: 2rem;
+  padding-bottom: 4rem;
+  align-items: center;
+  }
+
+h1 {
+  width: 100%;
+  padding:3rem;
+  background-color: rgb(76,131,122);
+  color: rgb(4, 37, 58);
+  margin: 1rem;
+  font-size: 9rem;
+  font-weight: lighter;
+  text-shadow: 4px 4px 0px #eee, 6px 6px 0px #707070;
+}
+
+h2 {
+    float: right;
+    align-items: flex-start;
+    width: 33%;
+    padding:2px;
+    background-color: rgb(76,131,122);
+    color: white;
+    font-size: 2rem;
+  }
+
+h3 {
+    padding:5px;
+    background-color: rgb(76,131,122);
+    color: white;
+  }
+
+.section-class {
+    background-color: rgb(76,131,122);
+    color: white;
+    font-size: 1rem;
+    margin: 1rem;
+    padding: 2rem;
+  }
+
+body {
+     color: rgb(4, 37, 58);
+  }
+
+img {
+    border-style: dashed;
+    border-color: rgb(4, 37, 58);
+    border-width: 3px;
+    width:25%;
+  }
